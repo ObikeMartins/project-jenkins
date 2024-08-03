@@ -1,6 +1,4 @@
-
-
-we will put documentations for our code here
-i deleted mark.py file
-added a new line of code
-we want to create a merge conflict
+- We will put documentation for our code here.
+- I deleted the `mark.py` file.
+- Added a new line of code.
+- We want to create a merge conflict.
